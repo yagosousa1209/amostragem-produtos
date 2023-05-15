@@ -3,7 +3,7 @@ import { AiFillFacebook, AiOutlineInstagram, AiOutlineTwitter, AiFillYoutube } f
 export default function Footer() {
     return (
         <footer className='bg-background text-letterLight'>
-            <section className="flex justify-around mb-10 mt-5 text-sm">
+            <section className="flex justify-around mb-10 mt-5 text-sm max-sm:text-center max-sm:flex-col max-sm:items-center max-sm:gap-7">
                 <div className='flex flex-col'>
                     <h3 className='text-xl text-primary mb-2'>Institucional</h3>
                     <a className='hover:underline' href='https://'>Quem somos</a>

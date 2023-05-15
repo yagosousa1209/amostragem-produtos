@@ -4,9 +4,11 @@ import Header from "../../components/Header";
 
 export default function Home() {
     return (
-        <div className="flex flex-col justify-between bg-secundary ">
+        <div className="flex flex-col justify-between bg-secundary">
             <Header />
-            <HallProducts />
+            <div className="mx-auto">
+                <HallProducts />
+            </div>
             <Footer />
         </div>
     )
