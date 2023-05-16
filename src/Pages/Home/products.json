@@ -1,0 +1,146 @@
+[
+    {
+        "image": "/assets/img-products/headphone_1.jpg",
+        "nameProduct": "Headphone de entrada.",
+        "descriptionProduct": "imagem de um headphone de entrada.",
+        "price": 69.31,
+        "id": 1,
+        "sales": 1100
+    },
+    {
+        "image": "/assets/img-products/placa_video_2.jpg",
+        "nameProduct": "Placa de vídeo RTX 3070 TI.",
+        "descriptionProduct": "imagem de uma placa de vídeo RTX 3070 TI",
+        "price": 3799.99,
+        "id": 2,
+        "sales": 200
+    },
+    {
+        "image": "/assets/img-products/webcam_1.jpg",
+        "nameProduct": "Webcam fullHD.",
+        "descriptionProduct": "imagem de uma webcam que grava em fullHD",
+        "price": 109.00,
+        "id": 3,
+        "sales": 1700
+    },
+    {
+        "image": "/assets/img-products/headphone_2.jpg",
+        "nameProduct": "Headphone top de linha.",
+        "descriptionProduct": "imagem de um headphone top de linha",
+        "price": 539.00,
+        "id": 4,
+        "sales": 1000
+    },
+    {
+        "image": "/assets/img-products/hd_1.jpg",
+        "nameProduct": "HD de 1TB.",
+        "descriptionProduct": "imagem de um HD.",
+        "price": 239.99,
+        "id": 5,
+        "sales": 1600
+    },
+    {
+        "image": "/assets/img-products/celular_1.jpg",
+        "nameProduct": "Celular de entrada.",
+        "descriptionProduct": "imagem de um celular de entrada",
+        "price": 1299.99,
+        "id": 6,
+        "sales": 1800
+    },
+    {
+        "image": "/assets/img-products/mouse_2.jpg",
+        "nameProduct": "Mouse gamer de 10000DPI.",
+        "descriptionProduct": "imagem de um mouse gamer de 10000DPI",
+        "price": 169.90,
+        "id": 7,
+        "sales": 100
+    },
+    {
+        "image": "/assets/img-products/placa_video_1.jpg",
+        "nameProduct": "Placa de vídeo RTX 3080.",
+        "descriptionProduct": "imagem de uma placa de vídeo RTX 3080",
+        "price": 4859.99,
+        "id": 8,
+        "sales": 500
+    },
+    {
+        "image": "/assets/img-products/webcam_2.jpg",
+        "nameProduct": "Webcam 4K.",
+        "descriptionProduct": "imagem de uma webcam que grava em 4K",
+        "price": 429.90,
+        "id": 9,
+        "sales": 900
+    },
+    {
+        "image": "/assets/img-products/celular_2.jpg",
+        "nameProduct": "Celular top de linha.",
+        "descriptionProduct": "imagem de um celular top de linha",
+        "price": 4399.90,
+        "id": 10,
+        "sales": 1300
+    },
+    {
+        "image": "/assets/img-products/mouse_1.jpg",
+        "nameProduct": "Mouse gamer de 2400DPI.",
+        "descriptionProduct": "imagem de um mouse gamer de 2400DPI",
+        "price": 62.99,
+        "id": 11,
+        "sales": 700
+    },
+    {
+        "image": "/assets/img-products/teclado_1.jpg",
+        "nameProduct": "Teclado simples.",
+        "descriptionProduct": "imagem de um teclado simples",
+        "price": 30.32,
+        "id": 12,
+        "sales": 1400
+    },
+    {
+        "image": "/assets/img-products/teclado_2.jpg",
+        "nameProduct": "Teclado gamer mecânico RGB.",
+        "descriptionProduct": "imagem de um teclado gamer mecânico RGB",
+        "price": 169.99,
+        "id": 13,
+        "sales": 800
+    },
+    {
+        "image": "/assets/img-products/cooler_1.jpg",
+        "nameProduct": "Air cooler para processador.",
+        "descriptionProduct": "imagem de um cooler",
+        "price": 199.90,
+        "id": 14,
+        "sales": 1500
+    },
+    {
+        "image": "/assets/img-products/gabinete_2.jpg",
+        "nameProduct": "Gabinete simples.",
+        "descriptionProduct": "imagem de um gabinete simples",
+        "price": 89.00,
+        "id": 15,
+        "sales": 1200
+    },
+    {
+        "image": "/assets/img-products/kit_1.jpg",
+        "nameProduct": "Kit com placa de video top de linha, memoria RAM 32GB(4x8GB) DDR5 6000Mhz e SSD M.2 de 1TB.",
+        "descriptionProduct": "imagem de um kit com placa de video top de linha, memoria RAM 32GB(4x8GB) DDR5 6000Mhz e SSD M.2 de 1TB",
+        "price": 7859.90,
+        "id": 16,
+        "sales": 300
+    },
+    {
+        "image": "/assets/img-products/gabinete_1.jpg",
+        "nameProduct": "Gabinete gamer.",
+        "descriptionProduct": "imagem de um gabinete gamer",
+        "price": 348.90,
+        "id": 17,
+        "sales": 400
+    },
+    {
+        "image": "/assets/img-products/mac_1.jpg",
+        "nameProduct": "IMac.",
+        "descriptionProduct": "imagem de um imac.",
+        "price": 16267.99,
+        "id": 18,
+        "sales": 600
+    }
+]

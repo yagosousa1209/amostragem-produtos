@@ -6,21 +6,21 @@ export default function Footer() {
             <section className="flex justify-around mb-10 mt-5 text-sm max-sm:text-center max-sm:flex-col max-sm:items-center max-sm:gap-7">
                 <div className='flex flex-col'>
                     <h3 className='text-xl text-primary mb-2'>Institucional</h3>
-                    <a className='hover:underline' href='https://'>Quem somos</a>
-                    <a className='hover:underline' href='https://'>Políticas de Privacidade</a>
-                    <a className='hover:underline' href='https://'>Política de cookies</a>
+                    <a className='hover:underline' href='#'>Quem somos</a>
+                    <a className='hover:underline' href='#'>Políticas de Privacidade</a>
+                    <a className='hover:underline' href='#'>Política de cookies</a>
                 </div>
                 <div className='flex flex-col'>
                     <h3 className='text-xl text-primary mb-2'>Ajuda</h3>
-                    <a className='hover:underline' href='https://'>SAC</a>
-                    <a className='hover:underline' href='https://'>Fale conosco</a>
-                    <a className='hover:underline' href='https://'>Trabalhe conosco</a>
+                    <a className='hover:underline' href='#'>SAC</a>
+                    <a className='hover:underline' href='#'>Fale conosco</a>
+                    <a className='hover:underline' href='#'>Trabalhe conosco</a>
                 </div>
                 <div className='flex flex-col'>
                     <h3 className='text-xl text-primary mb-2'>Dúvidas</h3>
-                    <a className='hover:underline' href='https://'>Formas de pagamento</a>
-                    <a className='hover:underline' href='https://'>Como comprar</a>
-                    <a className='hover:underline' href='https://'>Dúvidas frequentes</a>
+                    <a className='hover:underline' href='#'>Formas de pagamento</a>
+                    <a className='hover:underline' href='#'>Como comprar</a>
+                    <a className='hover:underline' href='#'>Dúvidas frequentes</a>
                 </div>
             </section>
 
